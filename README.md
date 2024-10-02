@@ -2,7 +2,7 @@
 
 Welcome to my analysis of the Data Science job market! This project was inspired by [Luke Barousse's YouTube course](https://www.youtube.com/watch?v=7mz73uXD9DA&t=12529s), where he explores a different field using the same dataset. In this README, we will delve into average salaries, job counts, top locations, and the most sought-after skills for Data Scientists and Senior Data Scientists.
 
-You can find the SQL queries [here](/2023-Data-Science-Job-Market-Insights/data_analysis) and the Python code to create the plots [here](/2023-Data-Science-Job-Market-Insights/data_visualization/Data_Science_Job_Trends_Visualization.ipynb)
+You can find the SQL queries [here](data_analysis) and the Python code to create the plots [here](data_visualization/Data_Science_Job_Trends_Visualization.ipynb)
 
 ## Questions
 1. What is the average salary and the number of job postings for each job title in the data job market?
