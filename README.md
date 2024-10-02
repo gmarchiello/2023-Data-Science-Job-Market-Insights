@@ -6,6 +6,10 @@ You can find the SQL queries [here](data_analysis) and the Python code for creat
 
 ## Questions
 1. What is the average salary and the number of job postings for each job title in the data job market?
+2. What are the top 20 job locations based on the number of job postings available?
+3. Which companies have the highest number of remote job postings?
+4. What are the top 20 highest-paying remote Data Scientist jobs, and what are the salary statistics for each job location?
+5. What are the top skills in demand for Data Scientist and Senior Data Scientist positions, and how do their demand counts compare for each role?
 
 ## Tools I Used
 
