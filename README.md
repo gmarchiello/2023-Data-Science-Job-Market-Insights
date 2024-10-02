@@ -95,8 +95,9 @@ LIMIT 20;                                            -- Limit the output to the 
 - **Overall Job Market Insight**: The overall landscape indicates a strong demand for data professionals worldwide, with a total of **over 69,606** postings in the top locations, suggesting promising career prospects for individuals seeking to enter or advance in the data field.
 
 ![plot_2](assets/2_plot.png)
+*Bar graph visualazing the top 20 job locations by number of jobs posted*
 
-### 3. Top 20 Companies with the Highest Number of Remote Job Positions
+### 3. Top 20 Companies with the Highest Number of Remote Job Positions for Data Scientist
 To examine the landscape of remote job opportunities, I ranked companies based on the total number of job postings listed as "Anywhere." By joining the job postings table with the company dimension, I accessed relevant company details. This query aggregates job counts for each company, allowing for insights into which organizations are leading in offering remote positions. The results are sorted in descending order, highlighting the top companies with the most remote job openings.
 ```sql
 SELECT 
@@ -129,6 +130,7 @@ LIMIT 20;                                       -- Limit the output to the top 2
 
 - **Overall Job Market Insight**: The data reveals a total of **over 10,500** job postings from the top 20 employers, underscoring the robust demand for data professionals in various roles. This reflects a thriving job market that offers promising career paths for aspiring and current data experts.
 ![plot_3](assets/3_plot.png)
+*Bar graph visualazing the top 20 companies with the Highest Number of Remote Job Positions for Data Scientist*
 
 ### 4. Top 20 Paying Data Scientist Remote Jobs
 To identify the top 20 highest-paying Data Scientist positions worldwide, I constructed a query that calculates the average salary for Data Scientist roles across various locations. This involves using Common Table Expressions (CTEs) to first rank the jobs by average salary and then aggregate salary statistics for job locations. The final output highlights the most lucrative Data Scientist roles, detailing salary rankings, job titles, locations, and associated company names. This analysis provides valuable insights into compensation trends for Data Scientists, enabling job seekers to target the highest-paying opportunities.
@@ -299,6 +301,7 @@ LIMIT 20;  -- Limits to the top 20 skills based on demand counts.
 
 - **Strong Demand**: Overall, the top 20 employers collectively offer a substantial total of over **10,000** job postings. This figure underscores the growing demand for data professionals across various industries, reflecting the expanding scope of data roles in the workforce.
 ![plot_5](assets/5_plot.png)
+*Bar graph visualazing the top 20 in-demand skills for Data Scientists and Senior Data Scientists*
 
 ## Conclusion 
 
