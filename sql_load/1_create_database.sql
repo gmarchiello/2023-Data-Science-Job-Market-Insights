@@ -1,2 +1,2 @@
-SELECT *
-FROM company_dim
+CREATE DATABASE sql_ _course;
+- DROP DATABASE IF EXISTS sql_course;
