@@ -94,7 +94,7 @@ LIMIT 20;                                            -- Limit the output to the 
 
 - **Overall Job Market Insight**: The overall landscape indicates a strong demand for data professionals worldwide, with a total of **over 69,606** postings in the top locations, suggesting promising career prospects for individuals seeking to enter or advance in the data field.
 
-
+![plot_2](assets/2_plot.png)
 
 ### 3. Top 20 Companies with the Highest Number of Remote Job Positions
 To examine the landscape of remote job opportunities, I ranked companies based on the total number of job postings listed as "Anywhere." By joining the job postings table with the company dimension, I accessed relevant company details. This query aggregates job counts for each company, allowing for insights into which organizations are leading in offering remote positions. The results are sorted in descending order, highlighting the top companies with the most remote job openings.
@@ -128,6 +128,7 @@ LIMIT 20;                                       -- Limit the output to the top 2
 - **Emerging Companies**: Newer or smaller companies, such as **Crossover** (278 jobs) and **TELUS International AI Data Solutions** (276 jobs), demonstrate the expanding opportunities within the industry, catering to a variety of data roles.
 
 - **Overall Job Market Insight**: The data reveals a total of **over 10,500** job postings from the top 20 employers, underscoring the robust demand for data professionals in various roles. This reflects a thriving job market that offers promising career paths for aspiring and current data experts.
+![plot_3](assets/3_plot.png)
 
 ### 4. Top 20 Paying Data Scientist Remote Jobs
 To identify the top 20 highest-paying Data Scientist positions worldwide, I constructed a query that calculates the average salary for Data Scientist roles across various locations. This involves using Common Table Expressions (CTEs) to first rank the jobs by average salary and then aggregate salary statistics for job locations. The final output highlights the most lucrative Data Scientist roles, detailing salary rankings, job titles, locations, and associated company names. This analysis provides valuable insights into compensation trends for Data Scientists, enabling job seekers to target the highest-paying opportunities.
@@ -297,9 +298,7 @@ LIMIT 20;  -- Limits to the top 20 skills based on demand counts.
 - **Emerging Players**: The presence of companies like **Crossover** (278 jobs) and **TELUS International AI Data Solutions** (276 jobs) signals the emergence of new players in the recruitment landscape. These firms are contributing to a broader range of job opportunities, enhancing the diversity of the market.
 
 - **Strong Demand**: Overall, the top 20 employers collectively offer a substantial total of over **10,000** job postings. This figure underscores the growing demand for data professionals across various industries, reflecting the expanding scope of data roles in the workforce.
-
-[text](assets/2 Top 20 Job Locations by Number of Jobs in 2023.png)
-
+![plot_5](assets/5_plot.png)
 
 ## Conclusion 
 
