@@ -2,12 +2,10 @@
 
 Welcome to my analysis of the Data Science job market! This project was inspired by [Luke Barousse's YouTube course](https://www.youtube.com/watch?v=7mz73uXD9DA&t=12529s), where he explores a different field using the same dataset. In this README, we will delve into average salaries, job counts, top locations, and the most sought-after skills for Data Scientists and Senior Data Scientists.
 
-You can find the SQL queries [here](data_analysis) and the Python code to create the plots [here](data_visualization/Data_Science_Job_Trends_Visualization.ipynb)
+You can find the SQL queries [here](data_analysis) and the Python code for creating the plots  [here](data_visualization/Data_Science_Job_Trends_Visualization.ipynb)
 
 ## Questions
 1. What is the average salary and the number of job postings for each job title in the data job market?
-
-
 
 ## Tools I Used
 
@@ -299,6 +297,8 @@ LIMIT 20;  -- Limits to the top 20 skills based on demand counts.
 - **Emerging Players**: The presence of companies like **Crossover** (278 jobs) and **TELUS International AI Data Solutions** (276 jobs) signals the emergence of new players in the recruitment landscape. These firms are contributing to a broader range of job opportunities, enhancing the diversity of the market.
 
 - **Strong Demand**: Overall, the top 20 employers collectively offer a substantial total of over **10,000** job postings. This figure underscores the growing demand for data professionals across various industries, reflecting the expanding scope of data roles in the workforce.
+
+[text](assets/2 Top 20 Job Locations by Number of Jobs in 2023.png)
 
 
 ## Conclusion 
