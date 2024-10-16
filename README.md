@@ -50,6 +50,10 @@ ORDER BY
 - **Diverse Job Titles**: The variety of positions, including **Senior Data Scientist, Data Engineer**, and **Machine Learning Engineer**, illustrates the range of expertise and specialization within the data landscape.
 - **Job Demand**: With over **5,926** job postings for Data Scientists alone, the data field continues to experience significant demand, indicating promising career prospects for those entering the industry.
 
+
+
+
+#### Overview of Top Data Roles in 2023
 | Job Title                    | Average Salary | Job Count |
 |------------------------------|----------------|-----------|
 | Senior Data Scientist         | $154,050.03    | 1,686     |
